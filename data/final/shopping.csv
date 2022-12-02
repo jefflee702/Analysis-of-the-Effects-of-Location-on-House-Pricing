@@ -1,4 +1,4 @@
-,shopping,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"7660 Beverly Blvd,Los Angeles, CA 90036",34.075952,-118.356676,Los Angeles
 1,"10250 Santa Monica Boulevard,Los Angeles, CA 90067",34.059485,-118.420449,Los Angeles
 2,"8500 Beverly Blvd,Los Angeles, CA 90048",34.075868,-118.377544,Los Angeles
@@ -342,42 +342,6 @@
 340,"1070 E Broadway,Long Beach, CA 90802",33.768517,-118.178872,Long Beach
 341,"1165 E Anaheim St,Long Beach, CA 90813",33.782916,-118.177339,Los Angeles
 342,"4210 Long Beach Blvd,Long Beach, CA 90807",33.835638,-118.188808,Anaheim
-343,,,,Long Beach
-344,,,,Long Beach
-345,,,,Long Beach
-346,,,,Long Beach
-347,,,,Long Beach
-348,,,,Long Beach
-349,,,,Long Beach
-350,,,,Long Beach
-351,,,,Long Beach
-352,,,,Long Beach
-353,,,,Long Beach
-354,,,,Long Beach
-355,,,,Long Beach
-356,,,,Long Beach
-357,,,,Long Beach
-358,,,,Long Beach
-359,,,,Long Beach
-360,,,,Long Beach
-361,,,,Long Beach
-362,,,,Long Beach
-363,,,,Long Beach
-364,,,,Long Beach
-365,,,,Long Beach
-366,,,,Long Beach
-367,,,,Anaheim
-368,,,,Long Beach
-369,,,,Long Beach
-370,,,,Anaheim
-371,,,,Anaheim
-372,,,,Anaheim
-373,,,,Long Beach
-374,,,,Long Beach
-375,,,,Long Beach
-376,,,,Long Beach
-377,,,,Long Beach
-378,,,,
 379,"1919 E 71st St,Chicago, IL 60649",41.7659,-87.577613,Chicago
 380,"2100 W 95th St,Chicago, IL 60643",41.721325,-87.674717,Chicago
 381,"3604 W 59th St,Chicago, IL 60629",41.786353,-87.71383,Chicago
@@ -911,31 +875,6 @@
 909,"301 W Division St,Arlington, TX 76011",32.739399,-97.109725,ArlingtonTX
 910,"825 E Sanford St,Arlington, TX 76011",32.743066,-97.098324,ArlingtonTX
 911,"500 N Collins St,Arlington, TX 76011",32.743092,-97.097801,ArlingtonTX
-912,,,,ArlingtonTX
-913,,,,ArlingtonTX
-914,,,,ArlingtonTX
-915,,,,ArlingtonTX
-916,,,,ArlingtonTX
-917,,,,ArlingtonTX
-918,,,,ArlingtonTX
-919,,,,ArlingtonTX
-920,,,,ArlingtonTX
-921,,,,ArlingtonTX
-922,,,,Fort Worth
-923,,,,ArlingtonTX
-924,,,,ArlingtonTX
-925,,,,ArlingtonTX
-926,,,,ArlingtonTX
-927,,,,ArlingtonTX
-928,,,,ArlingtonTX
-929,,,,ArlingtonTX
-930,,,,Fort Worth
-931,,,,Dallas
-932,,,,Fort Worth
-933,,,,
-934,,,,Fort Worth
-935,,,,Fort Worth
-936,,,,
 937,"5300 Wisconsin Ave NW,Washington, DC 20015",38.959424,-77.08562,Washington
 938,"3921 S Capitol St SW,Washington, DC 20032",38.832048,-77.008598,Washington
 939,"1608 20th St NW,Washington, DC 20009",38.911569,-77.045186,Washington
@@ -1016,24 +955,6 @@
 1014,"1901 S Bell St,Arlington, VA 22202",38.856485,-77.05074,ArlingtonVA
 1015,"3500 S Clark Pl,Arlington, VA 22202",38.864458,-77.099638,ArlingtonVA
 1016,"1550 Crystal Dr,Arlington, VA 22202",38.859506,-77.049728,ArlingtonVA
-1017,,,,ArlingtonVA
-1018,,,,ArlingtonVA
-1019,,,,ArlingtonVA
-1020,,,,Washington
-1021,,,,ArlingtonVA
-1022,,,,ArlingtonVA
-1023,,,,ArlingtonVA
-1024,,,,Washington
-1025,,,,ArlingtonVA
-1026,,,,ArlingtonVA
-1027,,,,ArlingtonVA
-1028,,,,ArlingtonVA
-1029,,,,ArlingtonVA
-1030,,,,ArlingtonVA
-1031,,,,ArlingtonVA
-1032,,,,Washington
-1033,,,,Washington
-1034,,,,Alexandria
 1035,"101 S Saint Asaph St,Alexandria, VA 22314",38.804633,-77.046012,Washington
 1036,"215 King St Fl 1,Alexandria, VA 22314",38.804527,-77.041924,Alexandria
 1037,"1940 Duke St,Alexandria, VA 22314",38.804202,-77.062818,Alexandria

@@ -1,4 +1,4 @@
-,cemetary,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"830 W Washington Blvd,Los Angeles, CA 90015",34.03615,-118.27644,Los Angeles
 1,"6000 Santa Monica Blvd,Los Angeles, CA 90038",34.090593,-118.320454,Los Angeles
 2,"1712 Glendale Blvd,Los Angeles, CA 90026",34.085971,-118.259281,Los Angeles
@@ -40,89 +40,6 @@
 38,"506 N Garfield Ave Ste 210,Alhambra, CA 91801",34.100529,-118.130181,Los Angeles
 39,"10621 Flaxton St,Culver City, CA 90230",34.000651,-118.386731,Los Angeles
 40,"100 Aquarium Way,Long Beach, CA 90802",33.762323,-118.197099,Los Angeles
-41,,,,Los Angeles
-42,,,,Los Angeles
-43,,,,Los Angeles
-44,,,,Los Angeles
-45,,,,Los Angeles
-46,,,,Los Angeles
-47,,,,Los Angeles
-48,,,,Los Angeles
-49,,,,Los Angeles
-50,,,,Los Angeles
-51,,,,Los Angeles
-52,,,,Los Angeles
-53,,,,Los Angeles
-54,,,,Los Angeles
-55,,,,Los Angeles
-56,,,,Los Angeles
-57,,,,Los Angeles
-58,,,,Los Angeles
-59,,,,Los Angeles
-60,,,,Los Angeles
-61,,,,Los Angeles
-62,,,,Los Angeles
-63,,,,Los Angeles
-64,,,,Los Angeles
-65,,,,Los Angeles
-66,,,,Los Angeles
-67,,,,Los Angeles
-68,,,,Los Angeles
-69,,,,Los Angeles
-70,,,,Los Angeles
-71,,,,Los Angeles
-72,,,,Los Angeles
-73,,,,Los Angeles
-74,,,,Los Angeles
-75,,,,Los Angeles
-76,,,,Los Angeles
-77,,,,Los Angeles
-78,,,,Los Angeles
-79,,,,Los Angeles
-80,,,,Los Angeles
-81,,,,Los Angeles
-82,,,,Los Angeles
-83,,,,Los Angeles
-84,,,,Los Angeles
-85,,,,Los Angeles
-86,,,,Los Angeles
-87,,,,Los Angeles
-88,,,,Los Angeles
-89,,,,Los Angeles
-90,,,,Los Angeles
-91,,,,Los Angeles
-92,,,,Los Angeles
-93,,,,Los Angeles
-94,,,,Los Angeles
-95,,,,Los Angeles
-96,,,,Los Angeles
-97,,,,Los Angeles
-98,,,,Los Angeles
-99,,,,Los Angeles
-100,,,,Los Angeles
-101,,,,Los Angeles
-102,,,,Los Angeles
-103,,,,Los Angeles
-104,,,,Los Angeles
-105,,,,Los Angeles
-106,,,,Los Angeles
-107,,,,Los Angeles
-108,,,,Los Angeles
-109,,,,Los Angeles
-110,,,,Los Angeles
-111,,,,Los Angeles
-112,,,,Los Angeles
-113,,,,Los Angeles
-114,,,,Los Angeles
-115,,,,Los Angeles
-116,,,,Los Angeles
-117,,,,Los Angeles
-118,,,,Los Angeles
-119,,,,Los Angeles
-120,,,,Los Angeles
-121,,,,Los Angeles
-122,,,,Los Angeles
-123,,,,Los Angeles
 124,"120 E Broadway,Anaheim, CA 92805",33.83329,-117.912066,Anaheim
 125,"1400 E Sycamore St,Anaheim, CA 92805",33.843215,-117.900017,Anaheim
 126,"2303 S Manchester Ave,Anaheim, CA 92802",33.795211,-117.89526,Anaheim
@@ -168,82 +85,6 @@
 166,"1625 Gisler Ave,Costa Mesa, CA 92626Downey, CA 90239",33.685569,-117.923704,Anaheim
 167,"9426 Stewart And Gray Rd,Downey, CA 90241",33.927396,-118.118818,Anaheim
 168,"640 S El Camino Real,San Clemente, CA 92672",33.423858,-117.609958,Anaheim
-169,,,,Anaheim
-170,,,,Anaheim
-171,,,,Anaheim
-172,,,,Anaheim
-173,,,,Anaheim
-174,,,,Anaheim
-175,,,,Anaheim
-176,,,,Anaheim
-177,,,,Anaheim
-178,,,,Anaheim
-179,,,,Anaheim
-180,,,,Anaheim
-181,,,,Anaheim
-182,,,,Anaheim
-183,,,,Anaheim
-184,,,,Anaheim
-185,,,,Anaheim
-186,,,,Anaheim
-187,,,,Anaheim
-188,,,,Anaheim
-189,,,,Anaheim
-190,,,,Anaheim
-191,,,,Anaheim
-192,,,,Anaheim
-193,,,,Anaheim
-194,,,,Anaheim
-195,,,,Anaheim
-196,,,,Anaheim
-197,,,,Anaheim
-198,,,,Anaheim
-199,,,,Anaheim
-200,,,,Anaheim
-201,,,,Anaheim
-202,,,,Anaheim
-203,,,,Anaheim
-204,,,,Anaheim
-205,,,,Anaheim
-206,,,,Anaheim
-207,,,,Anaheim
-208,,,,Anaheim
-209,,,,Long Beach
-210,,,,Anaheim
-211,,,,Anaheim
-212,,,,Long Beach
-213,,,,Anaheim
-214,,,,Anaheim
-215,,,,Anaheim
-216,,,,Anaheim
-217,,,,Anaheim
-218,,,,Anaheim
-219,,,,Anaheim
-220,,,,Anaheim
-221,,,,Anaheim
-222,,,,Anaheim
-223,,,,Anaheim
-224,,,,Anaheim
-225,,,,Anaheim
-226,,,,Anaheim
-227,,,,Anaheim
-228,,,,Anaheim
-229,,,,Anaheim
-230,,,,Anaheim
-231,,,,Anaheim
-232,,,,Anaheim
-233,,,,Anaheim
-234,,,,Long Beach
-235,,,,Long Beach
-236,,,,Anaheim
-237,,,,Anaheim
-238,,,,Anaheim
-239,,,,Anaheim
-240,,,,Anaheim
-241,,,,Anaheim
-242,,,,Anaheim
-243,,,,Anaheim
-244,,,,Anaheim
 245,"100 Aquarium Way,Long Beach, CA 90802",33.762323,-118.197099,Long Beach
 246,"1500 E San Antonio Dr,Long Beach, CA 90807",33.845071,-118.168421,Long Beach
 247,"1095 E Willow St,Long Beach, CA 90806",33.805214,-118.179483,Long Beach
@@ -288,96 +129,6 @@
 286,"2425 W Lincoln Ave,Anaheim, CA 92801",33.832876,-117.968943,Long Beach
 287,"3801 W Manchester Blvd,Inglewood, CA 90305",33.960381,-118.339498,Long Beach
 288,"6000 Santa Monica Blvd,Los Angeles, CA 90038",34.090593,-118.320454,Anaheim
-289,,,,Anaheim
-290,,,,Long Beach
-291,,,,Long Beach
-292,,,,Anaheim
-293,,,,Long Beach
-294,,,,Long Beach
-295,,,,Long Beach
-296,,,,Anaheim
-297,,,,Long Beach
-298,,,,Long Beach
-299,,,,Long Beach
-300,,,,Long Beach
-301,,,,Long Beach
-302,,,,Long Beach
-303,,,,Long Beach
-304,,,,Long Beach
-305,,,,Long Beach
-306,,,,Long Beach
-307,,,,Long Beach
-308,,,,Long Beach
-309,,,,Long Beach
-310,,,,Long Beach
-311,,,,Long Beach
-312,,,,Long Beach
-313,,,,Long Beach
-314,,,,Long Beach
-315,,,,Long Beach
-316,,,,Long Beach
-317,,,,Long Beach
-318,,,,Long Beach
-319,,,,Long Beach
-320,,,,Long Beach
-321,,,,Long Beach
-322,,,,Long Beach
-323,,,,Long Beach
-324,,,,Long Beach
-325,,,,Long Beach
-326,,,,Long Beach
-327,,,,Long Beach
-328,,,,Long Beach
-329,,,,Long Beach
-330,,,,Long Beach
-331,,,,Long Beach
-332,,,,Long Beach
-333,,,,Long Beach
-334,,,,Long Beach
-335,,,,Long Beach
-336,,,,Long Beach
-337,,,,Long Beach
-338,,,,Long Beach
-339,,,,Long Beach
-340,,,,Long Beach
-341,,,,Los Angeles
-342,,,,Anaheim
-343,,,,Long Beach
-344,,,,Long Beach
-345,,,,Long Beach
-346,,,,Long Beach
-347,,,,Long Beach
-348,,,,Long Beach
-349,,,,Long Beach
-350,,,,Long Beach
-351,,,,Long Beach
-352,,,,Long Beach
-353,,,,Long Beach
-354,,,,Long Beach
-355,,,,Long Beach
-356,,,,Long Beach
-357,,,,Long Beach
-358,,,,Long Beach
-359,,,,Long Beach
-360,,,,Long Beach
-361,,,,Long Beach
-362,,,,Long Beach
-363,,,,Long Beach
-364,,,,Long Beach
-365,,,,Long Beach
-366,,,,Long Beach
-367,,,,Anaheim
-368,,,,Long Beach
-369,,,,Long Beach
-370,,,,Anaheim
-371,,,,Anaheim
-372,,,,Anaheim
-373,,,,Long Beach
-374,,,,Long Beach
-375,,,,Long Beach
-376,,,,Long Beach
-377,,,,Long Beach
-378,,,,
 379,"444 N Michigan Ave,Chicago, IL 60611",41.890686,-87.624771,Chicago
 380,"4001 N Clark St,Chicago, IL 60613",41.954574,-87.661869,Chicago
 381,"5255 N Pulaski Rd,Chicago, IL 60630",41.977003,-87.727954,Chicago
@@ -448,66 +199,6 @@
 446,"1700 W Rand Rd,Arlington Heights, IL 60004",42.128048,-88.00062,Chicago
 447,"108 E Illinois St,Lemont, IL 60439",41.667966,-87.987515,Chicago
 448,"1640 W Main St,Saint Charles, IL 60174",41.913031,-88.333329,Chicago
-449,,,,Chicago
-450,,,,Chicago
-451,,,,Chicago
-452,,,,Chicago
-453,,,,Chicago
-454,,,,Chicago
-455,,,,Chicago
-456,,,,Chicago
-457,,,,Chicago
-458,,,,Chicago
-459,,,,Chicago
-460,,,,Chicago
-461,,,,Chicago
-462,,,,Chicago
-463,,,,Chicago
-464,,,,Chicago
-465,,,,Chicago
-466,,,,Chicago
-467,,,,Chicago
-468,,,,Chicago
-469,,,,Chicago
-470,,,,Chicago
-471,,,,Chicago
-472,,,,Chicago
-473,,,,Chicago
-474,,,,Chicago
-475,,,,Chicago
-476,,,,Chicago
-477,,,,Chicago
-478,,,,Chicago
-479,,,,Chicago
-480,,,,Chicago
-481,,,,Chicago
-482,,,,Chicago
-483,,,,Chicago
-484,,,,Chicago
-485,,,,Chicago
-486,,,,Chicago
-487,,,,Chicago
-488,,,,Chicago
-489,,,,Chicago
-490,,,,Chicago
-491,,,,Chicago
-492,,,,Chicago
-493,,,,Chicago
-494,,,,Chicago
-495,,,,Chicago
-496,,,,Chicago
-497,,,,Chicago
-498,,,,Chicago
-499,,,,Chicago
-500,,,,Chicago
-501,,,,Chicago
-502,,,,Chicago
-503,,,,Chicago
-504,,,,Chicago
-505,,,,Chicago
-506,,,,Chicago
-507,,,,Chicago
-508,,,,Chicago
 509,"Columbia &amp; North Ave,Naperville, IL 60540Winfield, IL 60190",41.787292,-88.136291,Naperville
 510,"OGDEN Ave,Aurora, IL 60504",41.759517,-88.313491,Naperville
 511,"1S510 Winfield Rd,Wheaton, IL 60189",41.865182,-88.099665,Naperville
@@ -566,7 +257,6 @@
 564,"Lake St Frontage Rd,Elmhurst, IL 60126",41.899671,-87.942771,Elgin
 565,"528 Madison St,Lockport, IL 60441",41.591,-88.049637,Naperville
 566,"333 S Wolf Rd,Hillside, IL 60162",41.863699,-87.901824,Naperville
-567,,,,Naperville
 568,"1S510 Winfield Rd,Wheaton, IL 60189",41.865182,-88.099665,Elgin
 569,"37W210 Fabyan Pkwy,Geneva, IL 60134",41.86578,-88.345645,Elgin
 570,"206 W Grand Lake Blvd,West Chicago, IL 60185",41.888892,-88.209406,Elgin
@@ -582,49 +272,6 @@
 580,"1109 Warrenville Rd,Wheaton, IL 60189",41.865182,-88.099665,Elgin
 581,"7014 S Rawson Bridge Rd,Cary, IL 60013",42.223686,-88.213985,Elgin
 582,"500 W Terra Cotta Ave,Crystal Lake, IL 60014",42.248707,-88.339869,Elgin
-583,,,,Elgin
-584,,,,Elgin
-585,,,,Elgin
-586,,,,Elgin
-587,,,,Elgin
-588,,,,Elgin
-589,,,,Chicago
-590,,,,Chicago
-591,,,,Elgin
-592,,,,Elgin
-593,,,,Elgin
-594,,,,Elgin
-595,,,,Elgin
-596,,,,Elgin
-597,,,,Elgin
-598,,,,Elgin
-599,,,,Elgin
-600,,,,Elgin
-601,,,,Elgin
-602,,,,Elgin
-603,,,,Elgin
-604,,,,Chicago
-605,,,,Elgin
-606,,,,Elgin
-607,,,,Elgin
-608,,,,Elgin
-609,,,,Elgin
-610,,,,Elgin
-611,,,,Elgin
-612,,,,Elgin
-613,,,,Elgin
-614,,,,Elgin
-615,,,,Elgin
-616,,,,Elgin
-617,,,,Elgin
-618,,,,Elgin
-619,,,,Chicago
-620,,,,Naperville
-621,,,,Elgin
-622,,,,Elgin
-623,,,,Elgin
-624,,,,Elgin
-625,,,,Naperville
 626,"3900 Oakland Cir,Dallas, TX 75215",32.736212,-96.784359,Dallas
 627,"3020 Oak Grove Ave,Dallas, TX 75204",32.736212,-96.784359,Dallas
 628,"6000 S R L Thornton Fwy,Dallas, TX 75232",32.674678,-96.820209,Dallas
@@ -658,73 +305,6 @@
 656,"200 W Center St,Duncanville, TX 75116",32.651185,-96.910619,Dallas
 657,"1111 Military Pkwy,Mesquite, TX 75149",32.768062,-96.613052,Dallas
 658,"2525 Central Expy N,Allen, TX 75013",33.143255,-96.651872,Dallas
-659,,,,Dallas
-660,,,,Dallas
-661,,,,Dallas
-662,,,,Dallas
-663,,,,Dallas
-664,,,,Dallas
-665,,,,Dallas
-666,,,,Dallas
-667,,,,Dallas
-668,,,,Dallas
-669,,,,Dallas
-670,,,,Dallas
-671,,,,Dallas
-672,,,,Dallas
-673,,,,Dallas
-674,,,,Dallas
-675,,,,Dallas
-676,,,,Dallas
-677,,,,Dallas
-678,,,,Dallas
-679,,,,Dallas
-680,,,,Dallas
-681,,,,Dallas
-682,,,,Dallas
-683,,,,Dallas
-684,,,,Dallas
-685,,,,Dallas
-686,,,,Dallas
-687,,,,Dallas
-688,,,,Dallas
-689,,,,Dallas
-690,,,,Dallas
-691,,,,Dallas
-692,,,,Dallas
-693,,,,Dallas
-694,,,,Dallas
-695,,,,Dallas
-696,,,,Dallas
-697,,,,Dallas
-698,,,,Dallas
-699,,,,Dallas
-700,,,,Dallas
-701,,,,Dallas
-702,,,,Dallas
-703,,,,Dallas
-704,,,,Dallas
-705,,,,Dallas
-706,,,,Dallas
-707,,,,Dallas
-708,,,,Dallas
-709,,,,Dallas
-710,,,,Dallas
-711,,,,Dallas
-712,,,,Dallas
-713,,,,Dallas
-714,,,,Dallas
-715,,,,Dallas
-716,,,,Dallas
-717,,,,Dallas
-718,,,,Dallas
-719,,,,Dallas
-720,,,,Dallas
-721,,,,Dallas
-722,,,,Dallas
-723,,,,Dallas
-724,,,,Dallas
-725,,,,Dallas
 726,"3600 Shelby Rd,Fort Worth, TX 76140",32.6233,-97.266687,Fort Worth
 727,"701 Grand Ave,Fort Worth, TX 76164",32.729442,-97.33181,Fort Worth
 728,"6301 Granbury Rd,Fort Worth, TX 76133",32.656825,-97.401819,Fort Worth
@@ -770,63 +350,6 @@
 768,"220 Keller Pkwy,Keller, TX 76248",32.934225,-97.252002,Fort Worth
 769,"575 Colleyville Ter,Colleyville, TX 76034",32.892008,-97.148638,Fort Worth
 770,"2905 Galleria Dr Ste 108,Arlington, TX 76011",32.746795,-97.056602,Fort Worth
-771,,,,Fort Worth
-772,,,,Fort Worth
-773,,,,Fort Worth
-774,,,,Fort Worth
-775,,,,Fort Worth
-776,,,,Fort Worth
-777,,,,Fort Worth
-778,,,,Fort Worth
-779,,,,Fort Worth
-780,,,,Fort Worth
-781,,,,Fort Worth
-782,,,,Fort Worth
-783,,,,Fort Worth
-784,,,,Fort Worth
-785,,,,Fort Worth
-786,,,,Fort Worth
-787,,,,Fort Worth
-788,,,,Fort Worth
-789,,,,Fort Worth
-790,,,,Fort Worth
-791,,,,Fort Worth
-792,,,,Fort Worth
-793,,,,Fort Worth
-794,,,,Fort Worth
-795,,,,Fort Worth
-796,,,,Fort Worth
-797,,,,Fort Worth
-798,,,,Fort Worth
-799,,,,Fort Worth
-800,,,,Fort Worth
-801,,,,Fort Worth
-802,,,,Fort Worth
-803,,,,Fort Worth
-804,,,,Fort Worth
-805,,,,Fort Worth
-806,,,,Fort Worth
-807,,,,Fort Worth
-808,,,,Fort Worth
-809,,,,Fort Worth
-810,,,,Fort Worth
-811,,,,ArlingtonTX
-812,,,,Fort Worth
-813,,,,Fort Worth
-814,,,,ArlingtonTX
-815,,,,ArlingtonTX
-816,,,,ArlingtonTX
-817,,,,ArlingtonTX
-818,,,,ArlingtonTX
-819,,,,ArlingtonTX
-820,,,,Fort Worth
-821,,,,Fort Worth
-822,,,,Fort Worth
-823,,,,ArlingtonTX
-824,,,,ArlingtonTX
-825,,,,ArlingtonTX
-826,,,,ArlingtonTX
-827,,,,ArlingtonTX
 828,"1219 N Davis Dr,Arlington, TX 76012",32.754115,-97.122052,ArlingtonTX
 829,"8301 Business Highway 287,Arlington, TX 76001",32.685678,-97.102867,ArlingtonTX
 830,"8301 Mansfield Hwy,Arlington, TX 76001",32.685678,-97.102867,ArlingtonTX
@@ -885,81 +408,6 @@
 883,"9700 Webb Chapel Rd,Dallas, TX 75220",32.865921,-96.862858,Fort Worth
 884,"5704 James Ave,Fort Worth, TX 76134",32.662209,-97.345421,ArlingtonTX
 885,"1500 S Westmoreland Rd,Desoto, TX 75115",32.566646,-96.871025,ArlingtonTX
-886,,,,ArlingtonTX
-887,,,,ArlingtonTX
-888,,,,ArlingtonTX
-889,,,,ArlingtonTX
-890,,,,ArlingtonTX
-891,,,,Fort Worth
-892,,,,ArlingtonTX
-893,,,,ArlingtonTX
-894,,,,ArlingtonTX
-895,,,,ArlingtonTX
-896,,,,ArlingtonTX
-897,,,,ArlingtonTX
-898,,,,ArlingtonTX
-899,,,,ArlingtonTX
-900,,,,ArlingtonTX
-901,,,,ArlingtonTX
-902,,,,Fort Worth
-903,,,,Fort Worth
-904,,,,Fort Worth
-905,,,,ArlingtonTX
-906,,,,ArlingtonTX
-907,,,,ArlingtonTX
-908,,,,ArlingtonTX
-909,,,,ArlingtonTX
-910,,,,ArlingtonTX
-911,,,,ArlingtonTX
-912,,,,ArlingtonTX
-913,,,,ArlingtonTX
-914,,,,ArlingtonTX
-915,,,,ArlingtonTX
-916,,,,ArlingtonTX
-917,,,,ArlingtonTX
-918,,,,ArlingtonTX
-919,,,,ArlingtonTX
-920,,,,ArlingtonTX
-921,,,,ArlingtonTX
-922,,,,Fort Worth
-923,,,,ArlingtonTX
-924,,,,ArlingtonTX
-925,,,,ArlingtonTX
-926,,,,ArlingtonTX
-927,,,,ArlingtonTX
-928,,,,ArlingtonTX
-929,,,,ArlingtonTX
-930,,,,Fort Worth
-931,,,,Dallas
-932,,,,Fort Worth
-933,,,,
-934,,,,Fort Worth
-935,,,,Fort Worth
-936,,,,
-937,,,,Washington
-938,,,,Washington
-939,,,,Washington
-940,,,,Washington
-941,,,,Washington
-942,,,,Washington
-943,,,,Washington
-944,,,,Washington
-945,,,,Washington
-946,,,,Washington
-947,,,,Washington
-948,,,,Washington
-949,,,,Washington
-950,,,,Washington
-951,,,,Washington
-952,,,,Washington
-953,,,,Washington
-954,,,,Washington
-955,,,,Washington
-956,,,,Washington
-957,,,,Washington
-958,,,,Washington
-959,,,,Washington
-960,,,,Washington
 961,"2300 Clarendon Blvd Ste 501,Arlington, VA 22201",38.890033,-77.086676,ArlingtonVA
 962,"1 Air Force Memorial Dr,Arlington, VA 22204",38.868463,-77.066633,ArlingtonVA
 963,"214 McNair Rd,Fort Myer, VA 22211",38.876537,-77.080007,ArlingtonVA
@@ -1018,22 +466,6 @@
 1016,"9500 Riggs Rd,Adelphi, MD 20783",39.01167,-76.969077,ArlingtonVA
 1017,"7101 Sheriff Rd,Hyattsville, MD 20785",38.912209,-76.88313,ArlingtonVA
 1018,"4425 Brookfield Corporate Dr Ste 100,Chantilly, VA 20151",38.888215,-77.438508,ArlingtonVA
-1019,,,,ArlingtonVA
-1020,,,,Washington
-1021,,,,ArlingtonVA
-1022,,,,ArlingtonVA
-1023,,,,ArlingtonVA
-1024,,,,Washington
-1025,,,,ArlingtonVA
-1026,,,,ArlingtonVA
-1027,,,,ArlingtonVA
-1028,,,,ArlingtonVA
-1029,,,,ArlingtonVA
-1030,,,,ArlingtonVA
-1031,,,,ArlingtonVA
-1032,,,,Washington
-1033,,,,Washington
-1034,,,,Alexandria
 1035,"1450 Wilkes St,Alexandria, VA 22314",38.801862,-77.058353,Washington
 1036,"6600 S Kings Hwy,Alexandria, VA 22306",38.776418,-77.089376,Alexandria
 1037,"8406 Camden St,Alexandria, VA 22308",38.729011,-77.071337,Alexandria
@@ -1090,10 +522,3 @@
 1088,"10565 Main St,Fairfax, VA 22030",38.847451,-77.311183,Alexandria
 1089,"9013 Annapolis Rd,Lanham, MD 20706",38.961652,-76.86168,Alexandria
 1090,"4425 Brookfield Corporate Dr Ste 100,Chantilly, VA 20151",38.888215,-77.438508,Alexandria
-1091,,,,Alexandria
-1092,,,,Alexandria
-1093,,,,Alexandria
-1094,,,,Alexandria
-1095,,,,Washington
-1096,,,,Alexandria
-1097,,,,Alexandria

@@ -1,4 +1,4 @@
-,parks,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"2001 N Fuller Ave,Los Angeles, CA 90046",34.05513,-118.25703,Los Angeles
 1,"1245 N Spring St,Los Angeles, CA 90012",34.064896,-118.235567,Los Angeles
 2,"4800 Hollywood Blvd,Los Angeles, CA 90027",34.101528,-118.294387,Los Angeles
@@ -690,41 +690,6 @@
 688,"1515 N Galloway Ave,Mesquite, TX 75149",32.782908,-96.602232,Dallas
 689,"1001 New Market Rd,Mesquite, TX 75149",32.758941,-96.611124,Dallas
 690,"5928 Northwest Dr,Mesquite, TX 75150",32.784643,-96.622535,Dallas
-691,,,,Dallas
-692,,,,Dallas
-693,,,,Dallas
-694,,,,Dallas
-695,,,,Dallas
-696,,,,Dallas
-697,,,,Dallas
-698,,,,Dallas
-699,,,,Dallas
-700,,,,Dallas
-701,,,,Dallas
-702,,,,Dallas
-703,,,,Dallas
-704,,,,Dallas
-705,,,,Dallas
-706,,,,Dallas
-707,,,,Dallas
-708,,,,Dallas
-709,,,,Dallas
-710,,,,Dallas
-711,,,,Dallas
-712,,,,Dallas
-713,,,,Dallas
-714,,,,Dallas
-715,,,,Dallas
-716,,,,Dallas
-717,,,,Dallas
-718,,,,Dallas
-719,,,,Dallas
-720,,,,Dallas
-721,,,,Dallas
-722,,,,Dallas
-723,,,,Dallas
-724,,,,Dallas
-725,,,,Dallas
 726,"3309 Riveroad Ct,Fort Worth, TX 76116",32.729442,-97.33181,Fort Worth
 727,"11601 Morris Dido Newark Rd,Fort Worth, TX 76179",32.935888,-97.481988,Fort Worth
 728,"1112 W Presidio St,Fort Worth, TX 76102",32.729442,-97.33181,Fort Worth
@@ -791,42 +756,6 @@
 789,"989 N Walnut Creek Dr Ste 111,Mansfield, TX 76063",32.580068,-97.134872,Fort Worth
 790,"3829 Pinewood St,Bedford, TX 76021",32.848513,-97.104924,Fort Worth
 791,"2222 W Warrior Trl,Grand Prairie, TX 75052",32.699404,-97.036275,Fort Worth
-792,,,,Fort Worth
-793,,,,Fort Worth
-794,,,,Fort Worth
-795,,,,Fort Worth
-796,,,,Fort Worth
-797,,,,Fort Worth
-798,,,,Fort Worth
-799,,,,Fort Worth
-800,,,,Fort Worth
-801,,,,Fort Worth
-802,,,,Fort Worth
-803,,,,Fort Worth
-804,,,,Fort Worth
-805,,,,Fort Worth
-806,,,,Fort Worth
-807,,,,Fort Worth
-808,,,,Fort Worth
-809,,,,Fort Worth
-810,,,,Fort Worth
-811,,,,ArlingtonTX
-812,,,,Fort Worth
-813,,,,Fort Worth
-814,,,,ArlingtonTX
-815,,,,ArlingtonTX
-816,,,,ArlingtonTX
-817,,,,ArlingtonTX
-818,,,,ArlingtonTX
-819,,,,ArlingtonTX
-820,,,,Fort Worth
-821,,,,Fort Worth
-822,,,,Fort Worth
-823,,,,ArlingtonTX
-824,,,,ArlingtonTX
-825,,,,ArlingtonTX
-826,,,,ArlingtonTX
-827,,,,ArlingtonTX
 828,"717 W Main St,Arlington, TX 76013",32.737235,-97.115421,ArlingtonTX
 829,"1300 Dugan St,Arlington, TX 76010",32.685678,-97.102867,ArlingtonTX
 830,"809 W Randol Mill Rd,Arlington, TX 76012",32.750634,-97.116548,ArlingtonTX
@@ -913,29 +842,6 @@
 911,"400 S Macarthur Blvd,Coppell, TX 75019",32.961762,-96.958889,ArlingtonTX
 912,"633 W Mcleroy Blvd,Saginaw, TX 76179",32.866536,-97.365525,ArlingtonTX
 913,"2223 Kinwest Pkwy,Irving, TX 75063",32.917211,-96.978497,ArlingtonTX
-914,,,,ArlingtonTX
-915,,,,ArlingtonTX
-916,,,,ArlingtonTX
-917,,,,ArlingtonTX
-918,,,,ArlingtonTX
-919,,,,ArlingtonTX
-920,,,,ArlingtonTX
-921,,,,ArlingtonTX
-922,,,,Fort Worth
-923,,,,ArlingtonTX
-924,,,,ArlingtonTX
-925,,,,ArlingtonTX
-926,,,,ArlingtonTX
-927,,,,ArlingtonTX
-928,,,,ArlingtonTX
-929,,,,ArlingtonTX
-930,,,,Fort Worth
-931,,,,Dallas
-932,,,,Fort Worth
-933,,,,
-934,,,,Fort Worth
-935,,,,Fort Worth
-936,,,,
 937,"400 Michigan Ave NE,Washington, DC 20017",38.933438,-77.00064,Washington
 938,"3545 Williamsburg Ln NW,Washington, DC 20008",38.935967,-77.049989,Washington
 939,"777 6th St NW Ste 700,Washington, DC 20001",38.899496,-77.019645,Washington

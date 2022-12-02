@@ -1,4 +1,4 @@
-,gym,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"626 Coronado Ter,Los Angeles, CA 90026",34.07526,-118.270072,Los Angeles
 1,"2102 Colorado Blvd,Los Angeles, CA 90041",34.13897,-118.21215,Los Angeles
 2,"PO Box 748,Los Angeles, CA 90078",34.05513,-118.25703,Los Angeles
@@ -86,43 +86,6 @@
 84,"650 S Avenue 21,Los Angeles, CA 90031",34.06412,-118.21687,Los Angeles
 85,"3929 Middlebury St,Los Angeles, CA 90004",34.079948,-118.289974,Los Angeles
 86,"1469 S Bedford St,Los Angeles, CA 90035",34.0522,-118.38094,Los Angeles
-87,,,,Los Angeles
-88,,,,Los Angeles
-89,,,,Los Angeles
-90,,,,Los Angeles
-91,,,,Los Angeles
-92,,,,Los Angeles
-93,,,,Los Angeles
-94,,,,Los Angeles
-95,,,,Los Angeles
-96,,,,Los Angeles
-97,,,,Los Angeles
-98,,,,Los Angeles
-99,,,,Los Angeles
-100,,,,Los Angeles
-101,,,,Los Angeles
-102,,,,Los Angeles
-103,,,,Los Angeles
-104,,,,Los Angeles
-105,,,,Los Angeles
-106,,,,Los Angeles
-107,,,,Los Angeles
-108,,,,Los Angeles
-109,,,,Los Angeles
-110,,,,Los Angeles
-111,,,,Los Angeles
-112,,,,Los Angeles
-113,,,,Los Angeles
-114,,,,Los Angeles
-115,,,,Los Angeles
-116,,,,Los Angeles
-117,,,,Los Angeles
-118,,,,Los Angeles
-119,,,,Los Angeles
-120,,,,Los Angeles
-121,,,,Los Angeles
-122,,,,Los Angeles
-123,,,,Los Angeles
 124,"5557 E Santa Ana Canyon Rd Ste 203,Anaheim, CA 92807",33.85233,-117.792828,Anaheim
 125,"3174 E La Palma Ave,Anaheim, CA 92806",33.851444,-117.854092,Anaheim
 126,"3150 W Lincoln Ave Ste 140,Anaheim, CA 92801",33.82415,-117.897707,Anaheim
@@ -228,22 +191,6 @@
 226,"360 W Pebble Creek Ln,Orange, CA 92865",33.838491,-117.856336,Anaheim
 227,"410 W Grove Ave,Orange, CA 92865",33.820709,-117.856717,Anaheim
 228,"612 N Eckhoff St,Orange, CA 92868",33.796985,-117.874749,Anaheim
-229,,,,Anaheim
-230,,,,Anaheim
-231,,,,Anaheim
-232,,,,Anaheim
-233,,,,Anaheim
-234,,,,Long Beach
-235,,,,Long Beach
-236,,,,Anaheim
-237,,,,Anaheim
-238,,,,Anaheim
-239,,,,Anaheim
-240,,,,Anaheim
-241,,,,Anaheim
-242,,,,Anaheim
-243,,,,Anaheim
-244,,,,Anaheim
 245,"4918 E 2nd St,Long Beach, CA 90803",33.760949,-118.137181,Long Beach
 246,"6451 E Pacific Coast Hwy Ste C-7,Long Beach, CA 90803",33.797395,-118.121307,Long Beach
 247,"6423 E Pacific Coast Hwy Ste B,Long Beach, CA 90803",33.756837,-118.108455,Long Beach
@@ -368,16 +315,6 @@
 366,"6621 E Pacific Coast Hwy Ste 120,Long Beach, CA 90803",33.755197,-118.105843,Long Beach
 367,"6535 E Pacific Coast Hwy,Long Beach, CA 90803",33.756837,-118.108455,Anaheim
 368,"2286 E Carson St,Long Beach, CA 90807",33.831533,-118.16449,Long Beach
-369,,,,Long Beach
-370,,,,Anaheim
-371,,,,Anaheim
-372,,,,Anaheim
-373,,,,Long Beach
-374,,,,Long Beach
-375,,,,Long Beach
-376,,,,Long Beach
-377,,,,Long Beach
-378,,,,
 379,"444 W Fullerton Pkwy,Chicago, IL 60614",41.925949,-87.640934,Chicago
 380,"1958 W Montrose Ave,Chicago, IL 60613",41.961667,-87.67845,Chicago
 381,"3232 N Sheffield Ave,Chicago, IL 60657",41.940914,-87.654487,Chicago

@@ -1,4 +1,4 @@
-,golf,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"3207 Los Feliz Blvd,Los Angeles, CA 90039",34.123311,-118.269296,Los Angeles
 1,"10460 W Pico Blvd,Los Angeles, CA 90064",34.045439,-118.41805,Los Angeles
 2,"6900 W Manchester Ave,Los Angeles, CA 90045",33.95947,-118.41159,Los Angeles
@@ -97,32 +97,6 @@
 95,"5741 Buckingham Pkwy Ste A,Culver City, CA 90230",33.99077,-118.382167,Los Angeles
 96,"601 E Harvard St,Glendale, CA 91205",34.14489,-118.248575,Los Angeles
 97,"226 W Main St,Alhambra, CA 91801",34.085466,-118.13321,Los Angeles
-98,,,,Los Angeles
-99,,,,Los Angeles
-100,,,,Los Angeles
-101,,,,Los Angeles
-102,,,,Los Angeles
-103,,,,Los Angeles
-104,,,,Los Angeles
-105,,,,Los Angeles
-106,,,,Los Angeles
-107,,,,Los Angeles
-108,,,,Los Angeles
-109,,,,Los Angeles
-110,,,,Los Angeles
-111,,,,Los Angeles
-112,,,,Los Angeles
-113,,,,Los Angeles
-114,,,,Los Angeles
-115,,,,Los Angeles
-116,,,,Los Angeles
-117,,,,Los Angeles
-118,,,,Los Angeles
-119,,,,Los Angeles
-120,,,,Los Angeles
-121,,,,Los Angeles
-122,,,,Los Angeles
-123,,,,Los Angeles
 124,"430 N Gilbert St,Anaheim, CA 92801",33.835109,-117.967454,Anaheim
 125,"6691 E Canyon Hills Rd,Anaheim, CA 92807Anaheim, CA 92804",33.852412,-117.766223,Anaheim
 126,"14893 Ball Rd,Anaheim, CA 92806",33.818258,-117.872374,Anaheim
@@ -243,7 +217,6 @@
 241,"179 Hayden Way,Brea, CA 92821",33.930966,-117.895391,Anaheim
 242,"6471 Westminster Blvd,Westminster, CA 92683",33.757813,-118.002155,Anaheim
 243,"14525 Valley View Ave Ste C,Santa Fe Springs, CA 90670",33.945271,-118.06779,Anaheim
-244,,,,Anaheim
 245,"2400 N Studebaker Rd,Long Beach, CA 90815",33.797395,-118.121307,Long Beach
 246,"4800 E Wardlow Rd,Long Beach, CA 90808",33.814686,-118.136514,Long Beach
 247,"5000 E 7th St,Long Beach, CA 90804",33.774367,-118.132847,Long Beach
@@ -372,12 +345,6 @@
 370,"6820 Orangethorpe Ave Ste E,Buena Park, CA 90620",33.855981,-118.004034,Anaheim
 371,"17822 Georgetown Ln,Huntington Beach, CA 92647",33.703454,-117.993737,Anaheim
 372,"17862 Georgetown Ln,Huntington Beach, CA 92647",33.702952,-117.993728,Anaheim
-373,,,,Long Beach
-374,,,,Long Beach
-375,,,,Long Beach
-376,,,,Long Beach
-377,,,,Long Beach
-378,,,,
 379,"11001 S Doty Ave,Chicago, IL 60628",41.694592,-87.588405,Chicago
 380,"7059 S South Shore Dr,Chicago, IL 60649",41.76826,-87.563901,Chicago
 381,"8700 S Western Ave,Chicago, IL 60620",41.734707,-87.684556,Chicago
@@ -468,46 +435,6 @@
 466,"1320 Main St,Melrose Park, IL 60160",41.889985,-87.849748,Chicago
 467,"6301 Joliet Rd,Countryside, IL 60525",41.776527,-87.874335,Chicago
 468,"3650 W Devon Ave,Lincolnwood, IL 60712",41.997655,-87.720652,Chicago
-469,,,,Chicago
-470,,,,Chicago
-471,,,,Chicago
-472,,,,Chicago
-473,,,,Chicago
-474,,,,Chicago
-475,,,,Chicago
-476,,,,Chicago
-477,,,,Chicago
-478,,,,Chicago
-479,,,,Chicago
-480,,,,Chicago
-481,,,,Chicago
-482,,,,Chicago
-483,,,,Chicago
-484,,,,Chicago
-485,,,,Chicago
-486,,,,Chicago
-487,,,,Chicago
-488,,,,Chicago
-489,,,,Chicago
-490,,,,Chicago
-491,,,,Chicago
-492,,,,Chicago
-493,,,,Chicago
-494,,,,Chicago
-495,,,,Chicago
-496,,,,Chicago
-497,,,,Chicago
-498,,,,Chicago
-499,,,,Chicago
-500,,,,Chicago
-501,,,,Chicago
-502,,,,Chicago
-503,,,,Chicago
-504,,,,Chicago
-505,,,,Chicago
-506,,,,Chicago
-507,,,,Chicago
-508,,,,Chicago
 509,"1504 N Naper Blvd Ste 132,Naperville, IL 60563",41.754048,-88.149814,Naperville
 510,"25W570 Chicago Ave,Naperville, IL 60540",41.779878,-88.123719,Naperville
 511,"3400 Club Dr,Naperville, IL 60564",41.722991,-88.215905,Naperville
@@ -708,23 +635,6 @@
 706,"711 106th St,Arlington, TX 76011",32.754053,-97.060455,Dallas
 707,"2538 Golden Bear Dr,Carrollton, TX 75006",32.983888,-96.847375,Dallas
 708,"#42 East Pioneer Pkwy,Arlington, TX 76010",32.685678,-97.102867,Dallas
-709,,,,Dallas
-710,,,,Dallas
-711,,,,Dallas
-712,,,,Dallas
-713,,,,Dallas
-714,,,,Dallas
-715,,,,Dallas
-716,,,,Dallas
-717,,,,Dallas
-718,,,,Dallas
-719,,,,Dallas
-720,,,,Dallas
-721,,,,Dallas
-722,,,,Dallas
-723,,,,Dallas
-724,,,,Dallas
-725,,,,Dallas
 726,"8951 Creek Run Rd,Fort Worth, TX 76120",32.765555,-97.158417,Fort Worth
 727,"3401 Clubgate Dr,Fort Worth, TX 76137",32.858117,-97.307823,Fort Worth
 728,"3200 Chapel Creek Blvd,Fort Worth, TX 76116",32.726624,-97.505894,Fort Worth

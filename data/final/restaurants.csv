@@ -1,4 +1,4 @@
-,resturant,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"1858 N Vermont Ave,Los Angeles, CA 90027Los Angeles, CA 90041Los Angeles, CA 90047",34.10478,-118.291556,Los Angeles
 1,"8112 Melrose Ave,Los Angeles, CA 90046",34.083599,-118.366431,Los Angeles
 2,"6521 S Sepulveda Blvd,Los Angeles, CA 90045",33.980205,-118.394775,Los Angeles
@@ -238,12 +238,6 @@
 236,"116 S State College Blvd,Anaheim, CA 92806",33.840664,-117.888931,Anaheim
 237,"2010 E Lincoln Ave,Anaheim, CA 92806",33.839577,-117.888196,Anaheim
 238,"516 N Euclid St,Anaheim, CA 92801",33.838338,-117.93812,Anaheim
-239,,,,Anaheim
-240,,,,Anaheim
-241,,,,Anaheim
-242,,,,Anaheim
-243,,,,Anaheim
-244,,,,Anaheim
 245,"6272 E Pacific Coast Hwy,Long Beach, CA 90803",33.760067,-118.114621,Long Beach
 246,"555 E Ocean Blvd,Long Beach, CA 90802",33.766879,-118.18571,Long Beach
 247,"435 Shoreline Village Dr,Long Beach, CA 90802",33.759842,-118.191843,Long Beach
@@ -377,7 +371,6 @@
 375,"318 Pine Ave,Long Beach, CA 90802",33.770816,-118.192158,Long Beach
 376,"4354 Atlantic Ave,Long Beach, CA 90807",33.835631,-118.184632,Long Beach
 377,"2415 Pacific Ave,Long Beach, CA 90806",33.801178,-118.194065,Long Beach
-378,,,,
 379,"201 E Grand Ave,Chicago, IL 60611",41.891527,-87.622501,Chicago
 380,"8058 S Halsted St,Chicago, IL 60620",41.747223,-87.644373,Chicago
 381,"1306 E 47th st,Chicago, IL 60653",41.810348,-87.595131,Chicago
@@ -906,36 +899,6 @@
 904,"1705 N Collins St Ste 101,Arlington, TX 76011",32.760976,-97.096373,Fort Worth
 905,"1101 E Pioneer Pkwy,Arlington, TX 76010",32.708458,-97.093667,ArlingtonTX
 906,"2150 E Lamar Blvd,Arlington, TX 76006",32.761731,-97.074126,ArlingtonTX
-907,,,,ArlingtonTX
-908,,,,ArlingtonTX
-909,,,,ArlingtonTX
-910,,,,ArlingtonTX
-911,,,,ArlingtonTX
-912,,,,ArlingtonTX
-913,,,,ArlingtonTX
-914,,,,ArlingtonTX
-915,,,,ArlingtonTX
-916,,,,ArlingtonTX
-917,,,,ArlingtonTX
-918,,,,ArlingtonTX
-919,,,,ArlingtonTX
-920,,,,ArlingtonTX
-921,,,,ArlingtonTX
-922,,,,Fort Worth
-923,,,,ArlingtonTX
-924,,,,ArlingtonTX
-925,,,,ArlingtonTX
-926,,,,ArlingtonTX
-927,,,,ArlingtonTX
-928,,,,ArlingtonTX
-929,,,,ArlingtonTX
-930,,,,Fort Worth
-931,,,,Dallas
-932,,,,Fort Worth
-933,,,,
-934,,,,Fort Worth
-935,,,,Fort Worth
-936,,,,
 937,"3327 Cadys Aly NW,Washington, DC 20007",38.904753,-77.066929,Washington
 938,"1822 1st St NW,Washington, DC 20001",38.915016,-77.012385,Washington
 939,"1110 H St NE,Washington, DC 20002",38.900413,-76.991031,Washington

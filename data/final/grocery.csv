@@ -1,4 +1,4 @@
-,grocery,latitude,longitude,City
+,Address,Latitude,Longitude,City
 0,"4116 S Hoover St,Los Angeles, CA 90037",34.0091,-118.28703,Los Angeles
 1,"7660 Beverly Blvd,Los Angeles, CA 90036",34.075952,-118.356676,Los Angeles
 2,"260 S La Brea Ave,Los Angeles, CA 90036",34.069654,-118.343825,Los Angeles
@@ -113,16 +113,6 @@
 111,"212 W 6th St,Los Angeles, CA 90014",34.046153,-118.251451,Los Angeles
 112,"608 S Hill St,Los Angeles, CA 90014",34.04696,-118.25321,Los Angeles
 113,"711 N Broadway Ste 117,Los Angeles, CA 90012",34.060767,-118.239285,Los Angeles
-114,,,,Los Angeles
-115,,,,Los Angeles
-116,,,,Los Angeles
-117,,,,Los Angeles
-118,,,,Los Angeles
-119,,,,Los Angeles
-120,,,,Los Angeles
-121,,,,Los Angeles
-122,,,,Los Angeles
-123,,,,Los Angeles
 124,"5755 E La Palma Ave,Anaheim, CA 92807",33.860869,-117.787945,Anaheim
 125,"1616 W Katella Ave,Anaheim, CA 92802",33.802068,-117.937721,Anaheim
 126,"130 W Lincoln Ave,Anaheim, CA 92805",33.835123,-117.914735,Anaheim
@@ -201,49 +191,6 @@
 199,"1332 S Magnolia Ave,Anaheim, CA 92804",33.814206,-117.975356,Anaheim
 200,"1320 S Oriole St,Anaheim, CA 92804",33.814385,-118.013117,Anaheim
 201,"609 N Olive St,Anaheim, CA 92805",33.841975,-117.912219,Anaheim
-202,,,,Anaheim
-203,,,,Anaheim
-204,,,,Anaheim
-205,,,,Anaheim
-206,,,,Anaheim
-207,,,,Anaheim
-208,,,,Anaheim
-209,,,,Long Beach
-210,,,,Anaheim
-211,,,,Anaheim
-212,,,,Long Beach
-213,,,,Anaheim
-214,,,,Anaheim
-215,,,,Anaheim
-216,,,,Anaheim
-217,,,,Anaheim
-218,,,,Anaheim
-219,,,,Anaheim
-220,,,,Anaheim
-221,,,,Anaheim
-222,,,,Anaheim
-223,,,,Anaheim
-224,,,,Anaheim
-225,,,,Anaheim
-226,,,,Anaheim
-227,,,,Anaheim
-228,,,,Anaheim
-229,,,,Anaheim
-230,,,,Anaheim
-231,,,,Anaheim
-232,,,,Anaheim
-233,,,,Anaheim
-234,,,,Long Beach
-235,,,,Long Beach
-236,,,,Anaheim
-237,,,,Anaheim
-238,,,,Anaheim
-239,,,,Anaheim
-240,,,,Anaheim
-241,,,,Anaheim
-242,,,,Anaheim
-243,,,,Anaheim
-244,,,,Anaheim
 245,"2930 E 4th St,Long Beach, CA 90814",33.771437,-118.157298,Long Beach
 246,"6550 E Pacific Coast Hwy,Long Beach, CA 90803",33.754426,-118.108692,Long Beach
 247,"4550 Atlantic Ave,Long Beach, CA 90807",33.841092,-118.182869,Long Beach
@@ -377,7 +324,6 @@
 375,"1449 W Pacific Coast Hwy,Long Beach, CA 90810",33.790138,-118.211685,Long Beach
 376,"2202 Long Beach Blvd,Long Beach, CA 90806",33.797477,-118.188956,Long Beach
 377,"2201 Pacific Ave,Long Beach, CA 90806",33.797325,-118.194055,Long Beach
-378,,,,
 379,"1919 E 71st St,Chicago, IL 60649",41.7659,-87.577613,Chicago
 380,"3604 W 59th St,Chicago, IL 60629",41.786353,-87.71383,Chicago
 381,"7401 N Clark St,Chicago, IL 60626",42.016108,-87.674647,Chicago
@@ -932,10 +878,6 @@
 930,"2501 E Mayfield Rd,Arlington, TX 76014",32.691921,-97.064757,Fort Worth
 931,"3400 S Watson Rd,Arlington, TX 76014",32.690915,-97.063896,Dallas
 932,"2425 NE Green Oaks Blvd,Arlington, TX 76006",32.785477,-97.065651,Fort Worth
-933,,,,
-934,,,,Fort Worth
-935,,,,Fort Worth
-936,,,,
 937,"2401 Pennsylvania Ave NW,Washington, DC 20037",38.903488,-77.051852,Washington
 938,"1421 P St NW,Washington, DC 20005",38.909861,-77.032743,Washington
 939,"1400 8th St NW,Washington, DC 20001",38.82652,-77.01712,Washington
